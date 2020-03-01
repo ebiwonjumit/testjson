@@ -1,0 +1,10 @@
+{
+  "people":[
+    {"name": "James Franco", "occupation": "Actor", "age": 41, "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjMzNjEwMjc0MzE2/james-franco-245869-1-402.jpg"},
+     {"name": "Dave Franco", "occupation": "Actor", "age": 34, "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Dave_Franco_2016_Comic_Con.jpg"},
+      {"name": "Tom Franco", "occupation": "Actor", "age": 39, "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tom_Franco.jpg"},
+       {"name": "Jon Bellion", "occupation": "Musician", "age": 29, "image": "https://lastfm.freetls.fastly.net/i/u/770x0/4c5c29a6288506acc9f78ff99045fad8.jpg#4c5c29a6288506acc9f78ff99045fad8"},
+        {"name": "James Franco", "occupation": "Actor", "age": 41, "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjMzNjEwMjc0MzE2/james-franco-245869-1-402.jpg"},
+         {"name": "James Franco", "occupation": "Actor", "age": 41, "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjMzNjEwMjc0MzE2/james-franco-245869-1-402.jpg"}
+    ]
+}
